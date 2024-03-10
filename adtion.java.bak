@@ -1,0 +1,11 @@
+class adition
+{
+public static void main(String[]args)
+{
+float a=12.4f;
+int b=23;
+double c=233.5;
+
+System.out.println(a+b+c);
+}
+}
